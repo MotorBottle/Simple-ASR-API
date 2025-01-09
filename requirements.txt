@@ -1,0 +1,5 @@
+Flask
+funasr
+librosa
+torch
+torchaudio
