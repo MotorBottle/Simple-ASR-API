@@ -1,7 +1,7 @@
 import requests
 
 # 设置服务的 URL
-url = "http://192.168.50.18:17869/asr"
+url = "http://192.168.50.18:7869/asr"
 
 # 准备音频文件路径
 audio_path = "./requestSound.wav"
