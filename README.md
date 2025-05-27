@@ -1,4 +1,13 @@
-Here’s a draft for the `README.md` file based on your project:
+If you would like to directly deploy using prebuilt docker image (CPU version):
+ARM version
+```
+docker run -d -p 7869:7869 --name simple-asr-api motorbottle/simple-asr-api:v0.1.0
+```
+
+amd64 version
+```
+docker run -d -p 7869:7869 --name simple-asr-api motorbottle/simple-asr-api:v0.1.0-x86
+```
 
 ---
 
